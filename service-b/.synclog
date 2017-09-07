@@ -1,0 +1,30 @@
+﻿{
+  "RemoteRoot": "https://sbz64836stg.file.core.windows.net/mindaro/default/service-b",
+  "Files": {
+    "C:\\repo\\azp\\demo\\service-b\\.dockerignore": "2017-08-29T17:11:48.6030816+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\.synclog": "2017-09-06T22:02:23.7020112+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\appsettings.Development.json": "2017-09-06T20:35:24.9875808+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\appsettings.json": "2017-09-06T20:35:24.9935813+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\Dockerfile": "2017-09-07T17:48:42.4495767+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\Program.cs": "2017-09-06T20:35:25.0350829+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\service-b.csproj": "2017-09-06T20:35:25.0330849+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\Startup.cs": "2017-09-06T20:35:25.0460806+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\bin\\BWS\\Debug\\netcoreapp2.0\\backend.deps.json": "2017-09-06T20:39:08.6388851+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\bin\\BWS\\Debug\\netcoreapp2.0\\backend.dll": "2017-09-06T20:39:08.4203885+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\bin\\BWS\\Debug\\netcoreapp2.0\\backend.pdb": "2017-09-06T20:39:08.4208905+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\bin\\BWS\\Debug\\netcoreapp2.0\\backend.runtimeconfig.dev.json": "2017-09-06T20:39:08.698384+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\bin\\BWS\\Debug\\netcoreapp2.0\\backend.runtimeconfig.json": "2017-09-06T20:39:08.6933897+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\Controllers\\ValuesController.cs": "2017-09-06T20:37:04.3731606+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\backend.csproj.nuget.cache": "2017-09-06T20:39:04.8118607+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\backend.csproj.nuget.g.props": "2017-09-06T20:39:04.783859+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\backend.csproj.nuget.g.targets": "2017-09-06T20:35:28.8016017+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\project.assets.json": "2017-09-06T20:39:04.8078571+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\BWS\\Debug\\netcoreapp2.0\\backend.AssemblyInfo.cs": "2017-09-06T20:39:07.1783072+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\BWS\\Debug\\netcoreapp2.0\\backend.AssemblyInfoInputs.cache": "2017-09-06T20:39:07.1737961+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\BWS\\Debug\\netcoreapp2.0\\backend.csproj.CoreCompileInputs.cache": "2017-09-06T20:39:07.1707923+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\BWS\\Debug\\netcoreapp2.0\\backend.csproj.FileListAbsolute.txt": "2017-09-06T20:39:08.7093865+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\BWS\\Debug\\netcoreapp2.0\\backend.dll": "2017-09-06T20:39:08.4203885+00:00",
+    "C:\\repo\\azp\\demo\\service-b\\obj\\BWS\\Debug\\netcoreapp2.0\\backend.pdb": "2017-09-06T20:39:08.4208905+00:00"
+  },
+  "SyncTime": "2017-09-07T10:53:22.1391399-07:00"
+}
