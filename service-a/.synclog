@@ -1,10 +1,10 @@
 ﻿{
-  "RemoteRoot": "https://sbz64836stg.file.core.windows.net/mindaro/default/service-a",
+  "RemoteRoot": "https://sbz2472stg.file.core.windows.net/mindaro/default/service-a",
   "Files": {
-    "C:\\repo\\azp\\demo\\service-a\\.synclog": "2017-09-06T22:28:09.5682102+00:00",
-    "C:\\repo\\azp\\demo\\service-a\\Dockerfile": "2017-09-06T21:31:46.7270927+00:00",
-    "C:\\repo\\azp\\demo\\service-a\\package.json": "2017-09-07T17:48:00.0618806+00:00",
-    "C:\\repo\\azp\\demo\\service-a\\server.js": "2017-09-07T17:53:35.2493592+00:00",
+    "C:\\repo\\azp\\demo\\service-a\\.synclog": "2017-09-08T18:23:53.9615035+00:00",
+    "C:\\repo\\azp\\demo\\service-a\\Dockerfile": "2017-09-07T23:04:37.5293723+00:00",
+    "C:\\repo\\azp\\demo\\service-a\\package.json": "2017-09-08T17:24:37.927778+00:00",
+    "C:\\repo\\azp\\demo\\service-a\\server.js": "2017-09-08T17:22:54.5220741+00:00",
     "C:\\repo\\azp\\demo\\service-a\\node_modules\\request\\CHANGELOG.md": "2017-09-06T20:50:55.7024586+00:00",
     "C:\\repo\\azp\\demo\\service-a\\node_modules\\request\\index.js": "2017-09-06T20:50:55.6829597+00:00",
     "C:\\repo\\azp\\demo\\service-a\\node_modules\\request\\LICENSE": "2017-09-06T20:50:55.6804756+00:00",
@@ -607,5 +607,5 @@
     "C:\\repo\\azp\\demo\\service-a\\node_modules\\request\\node_modules\\uuid\\lib\\sha1-browser.js": "2017-09-06T20:50:56.2464571+00:00",
     "C:\\repo\\azp\\demo\\service-a\\node_modules\\request\\node_modules\\uuid\\lib\\sha1.js": "2017-09-06T20:50:56.2719494+00:00"
   },
-  "SyncTime": "2017-09-07T10:55:18.9244097-07:00"
+  "SyncTime": "2017-09-08T11:27:31.0190385-07:00"
 }

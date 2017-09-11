@@ -20,6 +20,7 @@ namespace backend
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+            .UseApplicationInsights("acd0b915-b0e3-4dd2-b96a-e7ed21dcde2a")
                 .Build();
     }
 }

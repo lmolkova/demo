@@ -2,8 +2,12 @@
 
 const express = require('express');
 const request = require('request');
+const appInsights = require("applicationinsights");
+appInsights.setup("acd0b915-b0e3-4dd2-b96a-e7ed21dcde2a");
+appInsights.start();
+
 // Constants
-const PORT = 80;
+const PORT = 8089;
 const HOST = '0.0.0.0';
 
 // App

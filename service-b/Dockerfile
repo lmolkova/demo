@@ -6,4 +6,5 @@ ENV ASPNETCORE_URLS http://*:5000
 EXPOSE 5000
 ENTRYPOINT ["dotnet", "out/service-b.dll"]
 COPY . .
+
 RUN dotnet publish -o out service-b.csproj

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,9 +12,11 @@ namespace backend.Controllers
     {
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            //var resp = new HttpClient().GetAsync("https://microsoft.com").Result;
+            //return resp.StatusCode.ToString();
+            return "123";
         }
 
         // GET api/values/5
