@@ -14,9 +14,9 @@ namespace backend.Controllers
         [HttpGet]
         public string Get()
         {
-            //var resp = new HttpClient().GetAsync("https://microsoft.com").Result;
-            //return resp.StatusCode.ToString();
-            return "123";
+            var resp = new HttpClient().GetAsync("https://microsoft.com").Result;
+            return resp.StatusCode.ToString();
+            //return "123";
         }
 
         // GET api/values/5
